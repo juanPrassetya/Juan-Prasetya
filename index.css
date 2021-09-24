@@ -1,0 +1,70 @@
+/* External css */
+
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@800&family=Merienda:wght@400;700&family=Stick+No+Bills:wght@200;800&display=swap');
+body{
+    background-image: url(pelangi.jpg);
+    background-size: 675px;
+}
+
+
+.name{
+    background-image: url(robot.jpg.jfif);
+    padding-top: 5px;
+    padding-left: 430px;
+    padding-bottom: 80px;
+    font-family: 
+
+    font-family: 'Gemunu Libre', sans-serif;
+font-family: 'Merienda', cursive;
+
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    
+    border: 11px solid black;
+    
+    height: 5px;
+    font-size: 70px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@800&family=Kaushan+Script&family=Merienda:wght@400;700&family=Stick+No+Bills:wght@200;400;800&display=swap');
+
+.pendidikan{
+    background-image: url(kotrah.jpg.jfif);
+    background-size: 265px;
+    padding-left: 500px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    
+    
+
+
+    border: 7px solid black;
+    height: 3px;
+    font-size: 55px;
+}
+
+.PENGALAMAN{
+    background-image: url(kotrah.jpg.jfif);
+    background-size: 265px;
+    padding-left: 458px;
+    padding-bottom: 50px;
+    padding-top: 15px;
+
+    border: 7px solid black;
+    height: 3px;
+    font-size: 60px;
+}
+
+.inspirasi{
+    background-image: url(kotrah.jpg.jfif);
+    background-size: 265px;
+    padding-left: 535px;
+    padding-bottom: 50px;
+    padding-top: 15px;
+
+    border: 7px solid black;
+    height: 3px;
+    font-size: 60px;
+}
